@@ -25,5 +25,3 @@ def printer(names)
     print name
   end
 end
-
-printer(["dogs","cats","squirtles"])
